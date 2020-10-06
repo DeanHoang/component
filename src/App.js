@@ -9,7 +9,7 @@ function App() {
   //const title={"HỌC REATJS","HỌC JAVASCRIPT"}
   const image="../image/product2.jpg";
   const title="HỌC JAVASCRIPT";
-  const author="Posted by Pen Pao | Th5 7 2020 | Javascript.";
+  const author="Posted by Hoang Duc Thanh | Th5 7 2020 | Javascript.";
   const namepost="Lập trình React";
   const content="Sau một thời gian tìm hiểu và áp dụng rất hiểu quả,hôm nay mình chia sẻ với các bạn cấu trúc thư...";
   const dulieu={image,title,author,namepost,content};
